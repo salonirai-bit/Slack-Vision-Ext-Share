@@ -4,7 +4,7 @@
 // GitHub Pages project URL: https://<user>.github.io/<repo>/
 // basePath MUST match that /<repo> segment or assets 404 (paths are root-absolute).
 // Override: BASE_PATH=/other-repo npm run build
-const defaultGithubRepoBase = "/slack-app-shell-template-prototype";
+const defaultGithubRepoBase = "/Slack-Vision-Ext-Share";
 //
 // • Default `npm run build`: assets use `${defaultGithubRepoBase}/_next/...`
 // • Local static preview at site root: `npm run build:local` then `npm run preview:local`
